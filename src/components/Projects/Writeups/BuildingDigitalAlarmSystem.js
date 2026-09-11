@@ -3,14 +3,6 @@ import WriteupTemplate from "./WriteupTemplate";
 
 function RedTeam1() {
 
-  const imgStyle = {
-    width: "100%",
-    borderRadius: "8px",
-    marginBottom: "24px",
-    marginTop: "8px",
-    border: "1px solid rgba(199, 112, 240, 0.3)",
-  };
-
   return (
     <WriteupTemplate title="Breaking In — Legally">
 
